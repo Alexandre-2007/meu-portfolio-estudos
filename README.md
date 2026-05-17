@@ -20,5 +20,5 @@ Os projetos estão divididos em pastas por linguagem. Dentro de cada projeto, vo
 
 \---
 
-\*Desenvolvido por Alexandre - Conecte-se comigo no \[LinkedIn]\*
+\*Desenvolvido por Alexandre - Conecte-se comigo no \[LinkedIn]\(https://www.linkedin.com/in/alexandre-c%C3%A9zar-alves-de-souza-soares-bb630819a/)*
 
