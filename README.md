@@ -6,13 +6,13 @@ Este repositório é o meu arquivo central de códigos e projetos desenvolvidos 
 
 
 
-\## 💻 Tecnologias Focadas
+ 💻 Tecnologias Focadas
 
-\* \*\*Python:\*\*  lógica de programação.
+Python:  lógica de programação.
 
-\* \*\*C# / .NET:\*\* Desenvolvimento de problemas
+C# / .NET: Desenvolvimento de problemas
 
-\## 📂 Como navegar
+ 📂 Como navegar
 
 Os projetos estão divididos em pastas por linguagem. Dentro de cada projeto, você encontrará o código-fonte
 
