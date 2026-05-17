@@ -1,0 +1,16 @@
+# Python (arquivos temporários e ambientes virtuais)
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# C# / .net (pastas de compilação e configurações do vs)
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
